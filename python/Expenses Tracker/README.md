@@ -11,13 +11,13 @@ In this project I want make a Tracker for me to use for every day so I can track
   3. Calculate Total Expenses – Computes and shows the total amount spent.
   4. Save & Exit – Ends the program.
  ### Day 1 File
- [file](Expenses%20Tracker/day1)
+ [file](day1)
 ## Day 2: Storing User Input in a JSON File
 - Modified the program to store expenses in a JSON file instead of keeping them in memory.
 - Used the json module to:
   - Save expenses to a file (write to JSON).
   - Load existing expenses when the program starts (read from JSON).
 ### Day 2 Files
-[Files](Expenses%20Tracker/day2)
+[Files](day2)
 
 
