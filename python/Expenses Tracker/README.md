@@ -6,10 +6,10 @@ In this project I want make a Tracker for me to use for every day so I can track
 - Added a while loop to continuously run the program until the user chooses to exit.
 - Used if, elif, and else statements to handle user choices.
 - Implemented four main features:
-  1. Add Expenses – Allows users to input expenses.
-  2. View Expenses – Displays the recorded expenses.
-  3. Calculate Total Expenses – Computes and shows the total amount spent.
-  4. Save & Exit – Ends the program.
+  - [x] Add Expenses – Allows users to input expenses.
+  - [x] View Expenses – Displays the recorded expenses.
+  - [x] Calculate Total Expenses – Computes and shows the total amount spent.
+  - [x] Save & Exit – Ends the program.
  ### Day 1 File
  [File](day1)
 ## Day 2: Storing User Input in a JSON File
