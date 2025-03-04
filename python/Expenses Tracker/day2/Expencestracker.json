@@ -1,0 +1,12 @@
+[
+    {
+        "category": "food",
+        "amount": 100.0,
+        "Date": "2020-20-20"
+    },
+    {
+        "category": "gas",
+        "amount": 100.0,
+        "Date": "2020-20-20"
+    }
+]
